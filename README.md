@@ -1,1 +1,1 @@
-this is a mysql project
+This is a mysql project
